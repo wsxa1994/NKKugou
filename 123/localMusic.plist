@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>geci</key>
+		<string>泡沫.lrc</string>
+		<key>singer</key>
+		<string>GSM</string>
+		<key>name</key>
+		<string>邓紫棋 - 泡沫</string>
+		<key>time</key>
+		<string>258</string>
+		<key>index</key>
+		<string>D</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>筷子兄弟</string>
+		<key>name</key>
+		<string>筷子兄弟 - 父亲</string>
+		<key>time</key>
+		<string>258</string>
+		<key>index</key>
+		<string>K</string>
+		<key>geci</key>
+		<string>父亲.lrc</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>筷子兄弟 - 小苹果</string>
+		<key>singer</key>
+		<string>筷子兄弟</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>K</string>
+		<key>geci</key>
+		<string>小苹果.lrc</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>模特</string>
+		<key>name</key>
+		<string>李荣浩 - 模特</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>K</string>
+		<key>geci</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>陈粒</string>
+		<key>name</key>
+		<string>陈粒 - 奇妙能力歌
+&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;
+&lt;plist version=&quot;1.0&quot;&gt;
+&lt;dict&gt;
+	&lt;key&gt;name&lt;/key&gt;
+	&lt;string&gt;李荣浩 - 模特&lt;/string&gt;
+	&lt;key&gt;time&lt;/key&gt;
+	&lt;string&gt;211&lt;/string&gt;
+	&lt;key&gt;index&lt;/key&gt;
+	&lt;string&gt;K&lt;/string&gt;
+&lt;/dict&gt;
+&lt;/plist&gt;
+</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>C</string>
+		<key>geci</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>马頔</string>
+		<key>name</key>
+		<string>马頔 - 南山南</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>M</string>
+		<key>geci</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>陈奕迅</string>
+		<key>name</key>
+		<string>陈奕迅 - 浮夸</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>C</string>
+		<key>geci</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>陈奕迅</string>
+		<key>name</key>
+		<string>陈奕迅 - 可以了</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>C</string>
+		<key>geci</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>林俊杰</string>
+		<key>name</key>
+		<string>林俊杰 - 她说</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>L</string>
+		<key>geci</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>吴雨霏</string>
+		<key>name</key>
+		<string>吴雨霏 - 告白</string>
+		<key>time</key>
+		<string>211</string>
+		<key>geci</key>
+		<string></string>
+		<key>index</key>
+		<string>W</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>Bruno Mars</string>
+		<key>name</key>
+		<string>Bruno Mars - Just the Way You Are</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>K</string>
+		<key>geci</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bruno Mars - Just the Way You Are</string>
+		<key>singer</key>
+		<string>Bruno Mars</string>
+		<key>geci</key>
+		<string></string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>B</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>Bruno Mars</string>
+		<key>name</key>
+		<string>Bruno Mars - Marry You</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>B</string>
+		<key>geci</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

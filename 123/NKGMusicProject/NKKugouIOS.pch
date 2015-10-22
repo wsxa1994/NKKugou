@@ -1,0 +1,27 @@
+//
+//  NKKugouIOS.pch
+//  NKGMusicProject
+//
+//  Created by neuedu on 15/9/29.
+//  Copyright (c) 2015年 neuedu. All rights reserved.
+//
+
+#ifndef NKGMusicProject_NKKugouIOS_pch
+#define NKGMusicProject_NKKugouIOS_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+//2015-9-29 自定义cell编辑栏 begin
+
+// .pch 文件是全局预编译头文件
+#import "UIView+NKMoreAttribute"
+#import "UIButton+MKImage"
+#define kScreenWidth [UIScreen mainScreen].applicationFrame.size.width
+#define kScreenHeight [UIScreen mainScreen].applicationFrame.size.height
+#define kWidthRatio 44.0/320.0
+#define kHeightRatio 44.0/568.0
+
+
+//2015-9-29 自定义cell编辑栏 end
+
+#endif
